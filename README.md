@@ -1,2 +1,2 @@
-my first project for Udacity training: Google Clone
+Project for Udacity training: Google Clone
 
